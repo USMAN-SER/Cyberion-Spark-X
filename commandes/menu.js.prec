@@ -53,7 +53,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     
     
     
-    Owner : ${s.OWNER_NAME} \n       || Commandes : ${cm.length} \n        || Date : ${date}\n || Heure : ${temps} \n || Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}\n || Plateforme : ${os.platform()}\n || Developpeur : Djalega++ \n\n ╰────────────────`;
+    Owner : ${s.U S M A N} \n       || Commandes : ${cm.length} \n        || Date : ${date}\n || Heure : ${temps} \n || Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}\n || Plateforme : ${os.platform()}\n || Developpeur : Djalega++ \n\n ╰────────────────`;
     
     
     
@@ -61,10 +61,10 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
       
     ╚═════ ✨✨ ☬ ✨✨ ═════╝*/
     /* menuMsg+=`
-   ╔════\☆✨️ĆÅŘŁ-ŜĤÅŘK MÐ/════╗
+   ╔════\☆✨️U S M A N/════╗
   
    ||     Prefix : ${s.prefixe}
-   ||      Owner : ${s.OWNER_NAME}
+   ||      Owner : ${s.U S M A N}
    ||      Commands : ${cm.length}
    ||      Date : ${date}
    ||      Hour : ${temps}
@@ -73,9 +73,9 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
    ||
    ╚════ ✨✨ ☬ ✨✨ ════╝`;*/
     menuMsg += `
-╔════----*ÇÅŘŁ-TEÇĤ-----
+╔════----*U S M A N-----
 ║    Prefix : ${s.PREFIXE}
-║    Owner : ${s.OWNER_NAME}    
+║    Owner : ${s.U S M A N}    
 ║    Mode : ${mode}
 ║    Commands :${cm.length}
 ║    Date : ${date}
